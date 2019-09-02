@@ -1,2 +1,2 @@
 # enabler.github.io
-A website for enabler linter
+A [website](http://enabler.github.io) for enabler linter
